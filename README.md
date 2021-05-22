@@ -22,4 +22,3 @@ Drop a ⭐ on the Github Repository.
 Install the Packages:
 pip install -r requirements.txt
 
-mithun
