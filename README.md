@@ -1,1 +1,1 @@
-# Malaria-Detection-using-CNN
+Detecting Malaria using Deep Learning 🦟
