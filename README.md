@@ -13,12 +13,12 @@ In a non-immune individual, symptoms usually appear 10–15 days after the infec
 Our Model performs fairly well with an accuracy of 95% and an F1 Score of 95% and Recall Score of 92%. This provides a handy tool to utilize the power of Machine Learning and Artificial Intelligence in Binary Classification Problems where time and accuracy is the paramount objective of classification.
 
 🏁  Technology Stack
-Flask
-HTML
-CSS
-Bootstrap
-Tensorflow
-Keras
+  Flask
+  HTML
+  CSS
+  Bootstrap
+  Tensorflow
+  Keras
 
 🏃‍♂️ Local Installation
 
